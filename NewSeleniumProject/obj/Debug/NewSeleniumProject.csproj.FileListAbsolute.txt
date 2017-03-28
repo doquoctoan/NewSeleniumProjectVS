@@ -1,0 +1,8 @@
+c:\users\eaksoz\documents\visual studio 2017\Projects\NewSeleniumProject\NewSeleniumProject\bin\Debug\NewSeleniumProject.dll
+c:\users\eaksoz\documents\visual studio 2017\Projects\NewSeleniumProject\NewSeleniumProject\bin\Debug\NewSeleniumProject.pdb
+c:\users\eaksoz\documents\visual studio 2017\Projects\NewSeleniumProject\NewSeleniumProject\bin\Debug\nunit.framework.dll
+c:\users\eaksoz\documents\visual studio 2017\Projects\NewSeleniumProject\NewSeleniumProject\bin\Debug\WebDriver.dll
+c:\users\eaksoz\documents\visual studio 2017\Projects\NewSeleniumProject\NewSeleniumProject\bin\Debug\nunit.framework.xml
+c:\users\eaksoz\documents\visual studio 2017\Projects\NewSeleniumProject\NewSeleniumProject\bin\Debug\WebDriver.xml
+c:\users\eaksoz\documents\visual studio 2017\Projects\NewSeleniumProject\NewSeleniumProject\obj\Debug\NewSeleniumProject.dll
+c:\users\eaksoz\documents\visual studio 2017\Projects\NewSeleniumProject\NewSeleniumProject\obj\Debug\NewSeleniumProject.pdb
